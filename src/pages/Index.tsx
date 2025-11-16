@@ -20,7 +20,7 @@ const Index = () => {
     id: '57878929',
     game: 'Standoff 2',
     item: 'Аккаунт',
-    price: '1500₽',
+    price: '2500₽',
     buyer: 'Покупатель',
     seller: 'Продавец'
   };
