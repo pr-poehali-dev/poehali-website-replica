@@ -51,7 +51,11 @@ const Index = () => {
         <div className="flex items-center justify-center mb-8">
           <div className="text-center">
             <h1 className="text-3xl font-bold text-gray-900 mb-2 flex items-center justify-center gap-2">
-              <Icon name="ShoppingCart" className="text-primary" size={32} />
+              <img 
+                src="https://cdn.poehali.dev/files/c2f2c06f-6471-4a12-9ddc-11f5a636dfbc.jpeg" 
+                alt="FunPay" 
+                className="w-8 h-8 object-contain"
+              />
               FunPay
             </h1>
             <p className="text-gray-600">Гарант сделки</p>
